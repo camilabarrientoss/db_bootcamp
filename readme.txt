@@ -1,8 +1,8 @@
 URL repositorio: 
-
+https://github.com/camilabarrientoss/db_bootcamp
 
 Para clonar: 
-git clone 
+git clone https://github.com/camilabarrientoss/db_bootcamp.git
 
 Crear base de datos:
 psql -U postgres
